@@ -1,1 +1,1 @@
-# Major-Project-Sentiment-Analysis
+# Major-Project : Sentiment Analysis on IMDB Movie Reviews
